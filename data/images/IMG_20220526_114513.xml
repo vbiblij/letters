@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>IMG_20220526_114513.jpg</filename>
+	<path>D:\Downloads\Dataset\IMG_20220526_114513.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3984</width>
+		<height>1840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1142</xmin>
+			<ymin>134</ymin>
+			<xmax>2517</xmax>
+			<ymax>1328</ymax>
+		</bndbox>
+	</object>
+</annotation>
